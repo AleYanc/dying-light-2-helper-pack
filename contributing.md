@@ -176,8 +176,8 @@ whole thing is rebuilt each patch anyway, that difference is small.
 
 ---
 
-**Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-11-07 · **License:** Shared under the MIT License
+**Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-11-08 · **License:** Shared under the MIT License
 
 *dying-light-2-helper-pack*
 
-<!-- rev 2026-11-07 -->
+<!-- rev 2026-11-08 -->
